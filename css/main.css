@@ -1,3 +1,9 @@
+@keyframes fading {
+    0% {opacity: 0;}
+    50% {opacity: 1;}
+    100% {opacity: 2;} 
+}
+
 .hidden {
     display: none;
 }
@@ -5,10 +11,9 @@
 #container {
     width: 428px;
     margin: 20px auto;
-    border: solid 1px gray;
+    border: solid 3px orange;
     background-color: white;
     border-radius: 10px;
-    margin: 0 auto;
 }
 
 body {
@@ -39,16 +44,34 @@ p {
     line-height: 28px;
 }
 
-h1 + p::first-letter{
-    color: white;
-    background-color: black;
+p::first-letter {
+    color: black;
+    background-color: orange;
+    font-weight: 700;
+    padding: 14px 6px;
+    margin-right: 10px;
+    float: left;
+    font-size: 32px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 0 yellow;
+}
+
+.hero, .img1, .img2, .img3, .img4, .img5 {
+    margin: 0 auto;
+    width: 386px;
+}
+
+/* h1 + p::first-letter {
+    color: black;
+    background-color: orange;
+    font-weight: 700;
     padding: 14px 6px;
     margin-right: 8px;
     float: left;
     font-size: 32px;
     border-radius: 2px;
-    box-shadow: 2px 2px 0 red;
-}
+    box-shadow: 2px 2px 0 yellow;
+} */
 
 article {
     grid-column: 1/-1;
