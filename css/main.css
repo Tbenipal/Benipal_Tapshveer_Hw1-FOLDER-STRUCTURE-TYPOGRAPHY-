@@ -11,7 +11,7 @@
 #container {
     width: 428px;
     margin: 20px auto;
-    border: solid 3px orange;
+    border: solid 5px orange;
     background-color: white;
     border-radius: 10px;
 }
