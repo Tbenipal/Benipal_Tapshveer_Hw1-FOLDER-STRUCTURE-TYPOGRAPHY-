@@ -56,7 +56,7 @@ p::first-letter {
     box-shadow: 2px 2px 0 yellow;
 }
 
-.hero, .img1, .img2, .img3, .img4, .img5 {
+.hero, .img {
     margin: 0 auto;
     width: 386px;
 }
