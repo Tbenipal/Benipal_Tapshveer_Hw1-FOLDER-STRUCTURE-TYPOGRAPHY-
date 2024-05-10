@@ -70,9 +70,53 @@ p::first-letter {
     align-items: center;
 }
 
-.hero, .img {
+.hero {
     margin: 0 auto;
     width: 386px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    margin: 0 auto;
+    width: 386px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2 {
+    margin: 0 auto;
+    width: 386px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img3 {
+    margin: 0 auto;
+    width: 386px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img4 {
+    margin: 0 auto;
+    width: 386px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img5 {
+    margin: 0 auto;
+    width: 386px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
