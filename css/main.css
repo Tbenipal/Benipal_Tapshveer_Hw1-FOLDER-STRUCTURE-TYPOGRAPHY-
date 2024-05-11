@@ -15,7 +15,7 @@
 #container {
     width: 428px;
     margin: 20px auto;
-    border: solid 4px red;
+    border: solid 5px yellowgreen;
     background-color: white;
     border-radius: 10px;
 }
@@ -27,7 +27,7 @@ body {
     font-style: normal;
     font-size: 19px;
     color: black;
-    background-color: orange;
+    background-color: skyblue;
 }
 
 #mainContent {
