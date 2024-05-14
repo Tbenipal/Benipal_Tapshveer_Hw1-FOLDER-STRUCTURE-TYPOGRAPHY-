@@ -1,2 +1,2 @@
 # FOLDER-STRUCTURE-TYPOGRAPHY
-MMED-1056: Hw1 - FOLDER STRUCTURE &amp; TYPOGRAPHY
+The brand I chose for this assignment is Quatro which will also be my selected brand for my Midterm &amp; FIP
